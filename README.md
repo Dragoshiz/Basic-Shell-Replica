@@ -10,12 +10,12 @@ This project is a basic replica of a Unix shell, designed to understand the work
 
 ## Installation
 Clone the repository and compile the code:
-git clone https://github.com/Dragoshiz/Basic-Shell-Replica.git
-make
+- git clone https://github.com/Dragoshiz/Basic-Shell-Replica.git
+- make
 
 ## Usage
 Run the shell executable and enter commands:
-./minishell
+- ./minishell
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests with your proposed changes.
