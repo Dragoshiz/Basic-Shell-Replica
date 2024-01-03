@@ -23,8 +23,5 @@ Contributions are welcome! Please fork the repository and submit pull requests w
 ## Dependencies
 - Readline library
 
-## License
-This project is released under the MIT License.
-
 ## Acknowledgments
 Special thanks to my partner in this project @minthe and the creators of the GNU Readline library.
